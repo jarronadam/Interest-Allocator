@@ -1,0 +1,1 @@
+To run the program, you would need to change the interest and events file to the destined files to begin the program. After, we’ll compile with ruby assignment1.rb
