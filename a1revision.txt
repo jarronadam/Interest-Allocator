@@ -1,0 +1,16 @@
+Script started on 2023-10-17 00:06:16-04:00
+]0;student1@csc415-server04:~/vm-csc415/excercise4/assignment1-rev/assignment1[student1@csc415-server04 assignment1]$ exitruby assignment1.rb events.csv interests..csv 
+Number of students who's required (2) selected issues are valid: 31
+Number of runnable events: 12
+Number of cancelled events: 0
+Number of empty events: 0
+]0;student1@csc415-server04:~/vm-csc415/excercise4/assignment1-rev/assignment1[student1@csc415-server04 assignment1]$ ruby assignment1.rb events.csv interests..csv [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cruby assignment1.rb events.csv interests..csv [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2.csv interests[2@2.[C[C[C[C
+Number of students who's required (2) selected issues are valid: 225
+Number of runnable events: 60
+Number of cancelled events: 0
+Number of empty events: 0
+]0;student1@csc415-server04:~/vm-csc415/excercise4/assignment1-rev/assignment1[student1@csc415-server04 assignment1]$ exit
+exit
+
+Script done on 2023-10-17 00:06:28-04:00

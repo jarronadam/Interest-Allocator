@@ -1,1 +1,2 @@
-To run the program, you would need to change the interest and events file to the destined files to begin the program. After, we’ll compile with ruby assignment1.rb
+To run the program, you would need to change the 
+interest and events file in the command terminal but would be ran orginally like "ruby assignment1.rb event.csv interests.csv"
